@@ -8,7 +8,7 @@ This project is a User Management System built with Spring Boot for the backend 
 
 - **Backend**: Spring Boot
 - **Frontend**: ReactJS with Vite
-- **Database**: H2 (for development), PostgreSQL (for production)
+- **Database**: PostgreSQL
 - **Authentication**: JWT, Spring Security
 - **2FA**: Email
 - **OAuth2**: Google
